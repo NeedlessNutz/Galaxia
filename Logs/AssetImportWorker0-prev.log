@@ -1,0 +1,445 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.6f1 (8a2143876886) revision 9052483'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.928; Version 2004; 64bit' Language: 'en' Physical Memory: 16193 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Users\Travis Keeley\Desktop\Unity Creations\2020.2.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Travis Keeley/Desktop/Unity Creations/Projects/Top Down Shooter
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50756
+Successfully changed project path to: C:/Users/Travis Keeley/Desktop/Unity Creations/Projects/Top Down Shooter
+C:/Users/Travis Keeley/Desktop/Unity Creations/Projects/Top Down Shooter
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.10 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.6f1 (8a2143876886)
+[Subsystems] Discovering subsystems at path C:/Users/Travis Keeley/Desktop/Unity Creations/2020.2.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Travis Keeley/Desktop/Unity Creations/Projects/Top Down Shooter/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c91)
+    Vendor:   
+    VRAM:     2996 MB
+    Driver:   27.21.14.6192
+Initialize mono
+Mono path[0] = 'C:/Users/Travis Keeley/Desktop/Unity Creations/2020.2.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/Travis Keeley/Desktop/Unity Creations/2020.2.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/Travis Keeley/Desktop/Unity Creations/2020.2.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56756
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/Travis Keeley/Desktop/Unity Creations/2020.2.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Users/Travis Keeley/Desktop/Unity Creations/2020.2.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004462 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 31.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.723 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000965 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.051 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1103 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 56.7 MB.
+System memory in use after: 56.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1544.
+Total: 2.588400 ms (FindLiveObjects: 0.173300 ms CreateObjectMapping: 0.034000 ms MarkObjects: 2.253100 ms  DeleteObjects: 0.126400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Rocket ship.fbx
+  artifactKey: Guid(af90a06849ada7249a5e7eabb4287415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rocket ship.fbx using Guid(af90a06849ada7249a5e7eabb4287415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95c63c09928a8a240e945055b29ad82b') in 0.565338 seconds
+  Import took 0.568954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031922 seconds.
+  path: Assets/Rocket ship.fbx
+  artifactKey: Guid(af90a06849ada7249a5e7eabb4287415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rocket ship.fbx using Guid(af90a06849ada7249a5e7eabb4287415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95c63c09928a8a240e945055b29ad82b') in 0.063415 seconds
+  Import took 0.066037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.741255 seconds.
+  path: Assets/0de74da3bcee217e5bac706608edf79f--spaceshi.jpg
+  artifactKey: Guid(493e86c5f660d3d42adbcecdb9af47f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/0de74da3bcee217e5bac706608edf79f--spaceshi.jpg using Guid(493e86c5f660d3d42adbcecdb9af47f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '031f623da0eb15bda94fb325f150fc0f') in 0.032754 seconds
+  Import took 0.035170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/download.jpg
+  artifactKey: Guid(b155d53f02469f24e971e38ffa65d0bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/download.jpg using Guid(b155d53f02469f24e971e38ffa65d0bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67696b2f270ea0d61ac1ac2f56b61eb7') in 0.017883 seconds
+  Import took 0.020376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 265.597167 seconds.
+  path: Assets/CCS Cruiser(V2).fbx
+  artifactKey: Guid(22b5404a925a91844912fe3b6361e885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2).fbx using Guid(22b5404a925a91844912fe3b6361e885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42fcd3d9e2bc0004014d1ecec27e27c8') in 0.048717 seconds
+  Import took 0.052223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.749039 seconds.
+  path: Assets/CCS Cruiser(V2)_ccs_main_BaseColor.png
+  artifactKey: Guid(a77d7bdbf588ff34797f7216a2d74170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_ccs_main_BaseColor.png using Guid(a77d7bdbf588ff34797f7216a2d74170) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '764b1b32885eaa170026fa7fe2ef107f') in 0.030161 seconds
+  Import took 0.032798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/CCS Cruiser(V2)_lights_main_BaseColor.png
+  artifactKey: Guid(7bb70dca42446be4eaa7b044f05eb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_lights_main_BaseColor.png using Guid(7bb70dca42446be4eaa7b044f05eb7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '425f111647cd1b2a08fc43edd9baee7f') in 0.023679 seconds
+  Import took 0.026402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/CCS Cruiser(V2)_ccs_main_Metallic.png
+  artifactKey: Guid(592a6cbd747e4f14e8aee4a52d9c229a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_ccs_main_Metallic.png using Guid(592a6cbd747e4f14e8aee4a52d9c229a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd7162f20c8cd12ed6406b1ced26db42') in 0.027346 seconds
+  Import took 0.030028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/CCS Cruiser(V2)_lights_main_Metallic.png
+  artifactKey: Guid(33749ca13ae8b3941bd14806d3fbeace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_lights_main_Metallic.png using Guid(33749ca13ae8b3941bd14806d3fbeace) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68b55b3df73d5d91c76381df5f74085f') in 0.028100 seconds
+  Import took 0.030964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/CCS Cruiser(V2)_ccs_main_Roughness.png
+  artifactKey: Guid(133fcc46182061d4b8175affde31e73d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_ccs_main_Roughness.png using Guid(133fcc46182061d4b8175affde31e73d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf36bf40cfba6ece08e04ca387844f61') in 0.024838 seconds
+  Import took 0.028039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/CCS Cruiser(V2)_lights_main_Roughness.png
+  artifactKey: Guid(767cae6cfed14c74dae3d43cbc022f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_lights_main_Roughness.png using Guid(767cae6cfed14c74dae3d43cbc022f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54173ed845e7ec1c5d5d4725f2f31d0d') in 0.027292 seconds
+  Import took 0.030422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/CCS Cruiser(V2)_ccs_main_Emissive.png
+  artifactKey: Guid(975069a8094c9d14f94fbd75a25fbafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_ccs_main_Emissive.png using Guid(975069a8094c9d14f94fbd75a25fbafc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a32ef7d1b8fe3c57f7df4b5ea3b887a5') in 0.022226 seconds
+  Import took 0.025769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/CCS Cruiser(V2)_lights_main_Normal.png
+  artifactKey: Guid(387db59380b79d64fb83b64060571e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_lights_main_Normal.png using Guid(387db59380b79d64fb83b64060571e0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a82ec42fd4435316c1982e14baf0522e') in 0.024746 seconds
+  Import took 0.027771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/CCS Cruiser(V2)_ccs_main_Normal.png
+  artifactKey: Guid(7a8c18914d58afc4f9e93b85ca6c74e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_ccs_main_Normal.png using Guid(7a8c18914d58afc4f9e93b85ca6c74e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2659c8af9dd9065d86147ece2192cedd') in 0.017870 seconds
+  Import took 0.020725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/CCS Cruiser(V2)_lights_main_Emissive.png
+  artifactKey: Guid(73833186fbbc9a8498d8aa46953e49ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_lights_main_Emissive.png using Guid(73833186fbbc9a8498d8aa46953e49ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c28b25af35854ad25da8c5ce9ccd3290') in 0.016914 seconds
+  Import took 0.019528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.818302 seconds.
+  path: Assets/CCS Cruiser(V2)_ccs_main_BaseColor 1.png
+  artifactKey: Guid(13638049b366d05488ca335b31323944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_ccs_main_BaseColor 1.png using Guid(13638049b366d05488ca335b31323944) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22d9a594e60f34ae12f87bdaff66ab41') in 0.018708 seconds
+  Import took 0.021255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/CCS Cruiser(V2)_ccs_main_Emissive 1.png
+  artifactKey: Guid(d70e69aae4687994fab1cc8a604f3631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_ccs_main_Emissive 1.png using Guid(d70e69aae4687994fab1cc8a604f3631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f0ae6d9695441c37d608d30b7f6d3d9') in 0.015706 seconds
+  Import took 0.018412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/CCS Cruiser(V2)_lights_main_Normal 1.png
+  artifactKey: Guid(c3d8606ce0027d141bb389ec27c252b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_lights_main_Normal 1.png using Guid(c3d8606ce0027d141bb389ec27c252b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64012bee520f736d7d345cf128e73b7a') in 0.016152 seconds
+  Import took 0.018378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/CCS Cruiser(V2)_lights_main_Emissive 1.png
+  artifactKey: Guid(d534929d1340e5b428c04e767e0d5477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_lights_main_Emissive 1.png using Guid(d534929d1340e5b428c04e767e0d5477) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94cffa50f4d79049be358a30510184fd') in 0.016329 seconds
+  Import took 0.018933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/CCS Cruiser(V2)_lights_main_Roughness 1.png
+  artifactKey: Guid(a27547528d408c341b46f7ffd3af2219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_lights_main_Roughness 1.png using Guid(a27547528d408c341b46f7ffd3af2219) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d271ab8933fb258b24719d0c6a68447') in 0.017434 seconds
+  Import took 0.019969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/CCS Cruiser(V2)_ccs_main_Normal 1.png
+  artifactKey: Guid(0894ab118f25cd442b353417d0624b61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_ccs_main_Normal 1.png using Guid(0894ab118f25cd442b353417d0624b61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31eb26ec16c3f78a53472410280f3bb9') in 0.018785 seconds
+  Import took 0.021710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/CCS Cruiser(V2)_ccs_main_Roughness 1.png
+  artifactKey: Guid(b4d7ee2d97521854888d50e4a209b9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_ccs_main_Roughness 1.png using Guid(b4d7ee2d97521854888d50e4a209b9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d48a661dcbf708db66395fb7d0db231') in 0.016776 seconds
+  Import took 0.019352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/CCS Cruiser(V2)_ccs_main_Metallic 1.png
+  artifactKey: Guid(89f1ebc43f019fe40aec82909054500e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_ccs_main_Metallic 1.png using Guid(89f1ebc43f019fe40aec82909054500e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4911e1e2e28444e749fefb072de05704') in 0.013827 seconds
+  Import took 0.016206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/CCS Cruiser(V2)_lights_main_BaseColor 1.png
+  artifactKey: Guid(770e01ac40c048841a2dba05c027c05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2)_lights_main_BaseColor 1.png using Guid(770e01ac40c048841a2dba05c027c05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04b4d952215eecd1155db113875370e5') in 0.015361 seconds
+  Import took 0.017701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.552599 seconds.
+  path: Assets/ccs_main.mat
+  artifactKey: Guid(86dc22f404497c049b313ad46bc3b580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ccs_main.mat using Guid(86dc22f404497c049b313ad46bc3b580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44fbae010a48097ff438609207defa91') in 0.025221 seconds
+  Import took 0.028695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.893466 seconds.
+  path: Assets/Materials/0de74da3bcee217e5bac706608edf79f--spaceshi.mat
+  artifactKey: Guid(794908b999c7f5c45aa0cfaa7cb283d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0de74da3bcee217e5bac706608edf79f--spaceshi.mat using Guid(794908b999c7f5c45aa0cfaa7cb283d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f8c795e49d08912452aa44529212f23') in 0.015957 seconds
+  Import took 0.018532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Materials/CCS Cruiser(V2)_ccs_main_BaseColor.mat
+  artifactKey: Guid(68a1e7991cb284a4eb458745e9532da2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CCS Cruiser(V2)_ccs_main_BaseColor.mat using Guid(68a1e7991cb284a4eb458745e9532da2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83e46182026d57e1e5145db4ed6edb3f') in 0.017699 seconds
+  Import took 0.020372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Materials/CCS Cruiser(V2)_ccs_main_Emissive.mat
+  artifactKey: Guid(b122b788c4368f0458e51d2c5cf45b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CCS Cruiser(V2)_ccs_main_Emissive.mat using Guid(b122b788c4368f0458e51d2c5cf45b34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '396448a6aec977180bf4efdcb7259eab') in 0.019637 seconds
+  Import took 0.022075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Materials/CCS Cruiser(V2)_ccs_main_Roughness.mat
+  artifactKey: Guid(d346053f24529744d880f0d760871271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CCS Cruiser(V2)_ccs_main_Roughness.mat using Guid(d346053f24529744d880f0d760871271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dca986aa57f56af04b9992ab43a7862') in 0.021551 seconds
+  Import took 0.023957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Materials/CCS Cruiser(V2)_ccs_main_Metallic.mat
+  artifactKey: Guid(ec426e467ce1c8746910fa1769c75fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CCS Cruiser(V2)_ccs_main_Metallic.mat using Guid(ec426e467ce1c8746910fa1769c75fbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd53514f198d42e3a0ed3fff1af941a') in 0.020112 seconds
+  Import took 0.022665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Materials/CCS Cruiser(V2)_ccs_main_Normal.mat
+  artifactKey: Guid(0f721caadd2158c4b9b2bdb12b49de90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CCS Cruiser(V2)_ccs_main_Normal.mat using Guid(0f721caadd2158c4b9b2bdb12b49de90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2f45ec626fdc665af630f2f909b6425') in 0.020237 seconds
+  Import took 0.022696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Materials/CCS Cruiser(V2)_ccs_main_BaseColor 1.mat
+  artifactKey: Guid(a270147e37649484cad640f5dfb552e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CCS Cruiser(V2)_ccs_main_BaseColor 1.mat using Guid(a270147e37649484cad640f5dfb552e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ad5de1f8968c54bdd27082cbb8f754a') in 0.011903 seconds
+  Import took 0.014125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Materials/0de74da3bcee217e5bac706608edf79f--spaceshi.mat
+  artifactKey: Guid(794908b999c7f5c45aa0cfaa7cb283d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/0de74da3bcee217e5bac706608edf79f--spaceshi.mat using Guid(794908b999c7f5c45aa0cfaa7cb283d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f8c795e49d08912452aa44529212f23') in 0.013053 seconds
+  Import took 0.015413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Materials/CCS Cruiser(V2)_lights_main_BaseColor.mat
+  artifactKey: Guid(45659806deaabe045a7ae20ff453a7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CCS Cruiser(V2)_lights_main_BaseColor.mat using Guid(45659806deaabe045a7ae20ff453a7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd456db0d3c664ae8096dfc7b1591f8b4') in 0.024371 seconds
+  Import took 0.027811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.011574 seconds.
+  path: Assets/Materials/CCS Cruiser(V2)_lights_main_Emissive.mat
+  artifactKey: Guid(c2398e15059a4a74190f002f7972810b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CCS Cruiser(V2)_lights_main_Emissive.mat using Guid(c2398e15059a4a74190f002f7972810b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55b5477879367efc549f33752e2a242b') in 0.019543 seconds
+  Import took 0.023103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Materials/CCS Cruiser(V2)_lights_main_Metallic.mat
+  artifactKey: Guid(8a535cee07162f548abdb31f167c0b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CCS Cruiser(V2)_lights_main_Metallic.mat using Guid(8a535cee07162f548abdb31f167c0b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98978cea02384e7cced54ce949bee661') in 0.013819 seconds
+  Import took 0.016878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.081182 seconds.
+  path: Assets/Materials/CCS Cruiser(V2)_lights_main_Normal.mat
+  artifactKey: Guid(aa22142ac32c14547b62163055c9e561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CCS Cruiser(V2)_lights_main_Normal.mat using Guid(aa22142ac32c14547b62163055c9e561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fabd556eeb66005d50061c88441602f') in 0.019094 seconds
+  Import took 0.022373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Materials/download.mat
+  artifactKey: Guid(510f296790981e744b1bae53cd635500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/download.mat using Guid(510f296790981e744b1bae53cd635500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b84b897b4abd593c77c51b0cf44e25d') in 0.016859 seconds
+  Import took 0.019655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Materials/CCS Cruiser(V2)_lights_main_Normal.mat
+  artifactKey: Guid(aa22142ac32c14547b62163055c9e561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CCS Cruiser(V2)_lights_main_Normal.mat using Guid(aa22142ac32c14547b62163055c9e561) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fabd556eeb66005d50061c88441602f') in 0.016120 seconds
+  Import took 0.019726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Materials/CCS Cruiser(V2)_lights_main_Roughness.mat
+  artifactKey: Guid(8d4e631a615ac0a42b56f362cab41e75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/CCS Cruiser(V2)_lights_main_Roughness.mat using Guid(8d4e631a615ac0a42b56f362cab41e75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33a5c4532eba3e3f1ef848b8096930c1') in 0.014994 seconds
+  Import took 0.017635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.652511 seconds.
+  path: Assets/CCS Cruiser(V2).fbx
+  artifactKey: Guid(22b5404a925a91844912fe3b6361e885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CCS Cruiser(V2).fbx using Guid(22b5404a925a91844912fe3b6361e885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5a0a2f93f639639ae34f0c4b13f1938') in 0.038851 seconds
+  Import took 0.041290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 134.137613 seconds.
+  path: Assets/sp_1.fbx
+  artifactKey: Guid(37ace5d577304cf41ad26fe3e3f0d431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sp_1.fbx using Guid(37ace5d577304cf41ad26fe3e3f0d431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d7657124742080d4463982c3bd03a1b') in 0.025055 seconds
+  Import took 0.027519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.576825 seconds.
+  path: Assets/sp_1_diff.jpeg
+  artifactKey: Guid(5fa21bd1d62a48f43999dab39d88b4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sp_1_diff.jpeg using Guid(5fa21bd1d62a48f43999dab39d88b4cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c51d0c04002c93e0347fe9d24270862') in 0.030270 seconds
+  Import took 0.033440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/sp_1_spec.jpeg
+  artifactKey: Guid(11bc94266710e3248bde2ff3d741c2b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sp_1_spec.jpeg using Guid(11bc94266710e3248bde2ff3d741c2b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4054947ab555f31c39962c2d2a83999a') in 0.028358 seconds
+  Import took 0.031738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/sp_1_nor.jpeg
+  artifactKey: Guid(11ca3292429c9bc4096c11558c5a2933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sp_1_nor.jpeg using Guid(11ca3292429c9bc4096c11558c5a2933) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f30a28d704fa3c581e204324a73ec72') in 0.030474 seconds
+  Import took 0.033737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000544 seconds.
+  path: Assets/sp_1_emit.jpeg
+  artifactKey: Guid(858e92d7b249cd94ba22efb9627465e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sp_1_emit.jpeg using Guid(858e92d7b249cd94ba22efb9627465e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78f5fed0df6cde8f21a5070d500a0e26') in 0.039379 seconds
+  Import took 0.047470 seconds .
+
